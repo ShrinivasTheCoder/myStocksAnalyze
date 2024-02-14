@@ -1,4 +1,8 @@
 '''
+Creating a Stock Market Analyzer involves several steps, including data collection, analysis, visualization, 
+and possibly making predictions using historical stock price data. Here's a step-by-step guide to get you started
+with Python3, using Pandas for data manipulation and Matplotlib for data visualization.
+
 To access data for Indian companies using yfinance, you need to use the correct ticker symbols that 
 Yahoo Finance uses for stocks listed on Indian stock exchanges like the Bombay Stock Exchange (BSE) and 
 the National Stock Exchange of India (NSE). These tickers usually have a suffix that indicates the exchange.
